@@ -1,5 +1,5 @@
 @echo off
-set API_KEY=ReKXNjwXZYwgwtVhc9SBkGrHE0fdxtc2AmzF8I46MTbT2BgHoSkkbmqV8yIqe2Rn
+set API_KEY="Your API Key"
 set SERVER_URL=http://127.0.0.1:8000
 
 echo API 키 검증 중...
